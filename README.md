@@ -17,7 +17,7 @@ Every mockup shows the same screen and the same data, so you're only comparing d
 | # | Direction | Approach | Screenshot |
 |---|-----------|----------|------------|
 | 1 | Margin | Safe · editorial index | [view](.codeyam/design/screenshots/01-n15.png) |
-| 2 | Minimalistic | Safe · reading-log ledger | [view](.codeyam/design/screenshots/02-minimalistic.png) |
+| 2 | Minimalistic | Safe · quiet, single-focus | [view](.codeyam/design/screenshots/02-minimalistic.png) |
 | 3 | Penny Press | Safe · featured card plus grid | [view](.codeyam/design/screenshots/03-gummy.png) |
 | 4 | Space Odyssey | Bolder · night-reading view | [view](.codeyam/design/screenshots/04-space-odyssey.png) |
 | 5 | Neo-Brutalist | Bolder · bookshelf of spines | [view](.codeyam/design/screenshots/05-neo-brutalist.png) |
