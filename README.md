@@ -1,6 +1,10 @@
 # Folio design mockups
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/codeyam-ai/folio-designs?quickstart=1)
+
 Six design directions for the home screen of **Folio**, a minimalist iOS app for tracking books you want to read, are reading, and have read, with notes and ratings. You can borrow books through Libby or buy them from an indie store.
+
+**Built with Flutter.** Folio is planned as a [Flutter](https://flutter.dev) app: iOS first, then Android from the same codebase, with a companion website later. These mockups are static HTML design explorations used to pick a visual direction. The chosen direction will become the Flutter app's theme (`ThemeData`, color and type tokens) and widgets. No Flutter code lives in this repo yet.
 
 Every mockup shows the same screen and the same data, so you're only comparing design.
 
@@ -15,7 +19,7 @@ Every mockup shows the same screen and the same data, so you're only comparing d
 
 ## Viewing
 
-**GitHub Codespaces:** click **Code → Codespaces → Create codespace**. A static server starts on port 8000 and a preview of the gallery (`index.html`) opens. If the preview doesn't open, go to the **Ports** tab and open port 8000.
+**GitHub Codespaces:** click the **Open in GitHub Codespaces** button above, or **Code → Codespaces → Create codespace**. A static server starts on port 8000 and a preview of the gallery (`index.html`) opens. If the preview doesn't open, go to the **Ports** tab and open port 8000.
 
 **Locally:** run `python3 -m http.server 8000` and open http://localhost:8000.
 
